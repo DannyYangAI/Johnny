@@ -1,1 +1,12 @@
-test1
+
+
+安裝 ubuntu librealsense SDK
+
+https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md
+
+https://www.itread01.com/content/1547455861.html
+
+
+安裝完 ， 執行  realsense-viewer   ， 是否成功
+
+
